@@ -36,4 +36,5 @@ so :
 - as an example, we use the final data to make a simple dashboard with AWS quicksight 
 
  - data link : https://www.kaggle.com/datasets/datasnaek/youtube-new?select=KR_category_id.json
+ - Video for all the steps: https://www.linkedin.com/posts/mohamed-abohassan-6509641a9_aws-python-analytics-activity-6992862892307951617-ATSM?utm_source=share&utm_medium=member_desktop
  
