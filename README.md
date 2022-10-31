@@ -34,3 +34,6 @@ so :
 - our data now is ready to use in different things like dashboard reporting or machine learning models 
 
 - as an example, we use the final data to make a simple dashboard with AWS quicksight 
+
+ - data link : https://www.kaggle.com/datasets/datasnaek/youtube-new?select=KR_category_id.json
+ 
